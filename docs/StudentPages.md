@@ -2,7 +2,7 @@
 
 [Return to main page](./index.md)
 
-# Student Pages, Spring 2025
+# Student Pages, Spring 2026
 * [Akinfolami Akin-Alamu](https://akinfelami.github.io/fastrobots-2025/)
 * [Rachel Arena](https://rga47-lab.github.io)
 * [Kotey Ashie](https://kotey538.github.io/fast_robots.github.io/)
@@ -63,6 +63,7 @@
 * [Sean Zhang](https://seanzhangw.github.io/ece4160/)
 
 ---
+* [2025 Student pages](https://fastrobotscornell.github.io/FastRobots-2025/StudentPages.html)
 * [2024 Student pages](https://fastrobotscornell.github.io/FastRobots-2024/StudentPages.html)
 * [2023 Student pages](https://cei-lab.github.io/FastRobots-2023/StudentPages.html)
 * [2022 Student pages](https://cei-lab.github.io/ECE4960-2022/StudentPages.html)
