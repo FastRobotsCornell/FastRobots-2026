@@ -1,6 +1,6 @@
 # ECE 4160/5160, MAE 4190/5190: Fast Robots
 
-## Cornell University, Spring 2025
+## Cornell University, Spring 2026
 
 This course focuses on systems level design and implementation of dynamic autonomous robots. We will design a fast autonomous car and explore dynamic behaviors, acting forces, sensors, and reactive control on an embedded processor, as well as the benefit of partial off-board computation, low-latency software, and noise-tolerant implementation.
   
@@ -12,12 +12,12 @@ Instead of traditional hand-ins, we leverage peer-to-peer mentoring where studen
 
 ## Info
 * Instructor: [E. Farrell Helbling](https://www.ece.cornell.edu/faculty-directory/elizabeth-farrell-helbling)
-* Teaching Team: [Harry Gao, Cameron Urban, Mikayla Lahr, Daria Kot, Cheney Zhang, Nandita Nagarajan](./TeachingTeam/readme.md)
+* Teaching Team: [Julie Villamil, ](./TeachingTeam/readme.md)
 * Class Hours: Tuesday-Thursday 11:40am-12:55pm
-* Class Location: Hollister 110
+* Class Location: Tang 203
 * Lab Hours: T 2:00-4:30pm, W 8:30-11:00am, W 2:00-4:30pm
 * Open Hours: [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Y18yZTM4YTYwN2EwOTNhNzg1NmZmMTA4MzhkMDMyMDY4MzdhNTZmMTUwYTVmYWYyZGUwZGI3YTBlZWZmMjE5OWQ2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-* Lab Location: Phillips 427
+* Lab Location: Tang 291
 * Canvas: Assignment dates and grades will be facilitated through Canvas
 * EdDiscussion: The online discussion forum can be accessed through Canvas
 
@@ -32,6 +32,7 @@ Instead of traditional hand-ins, we leverage peer-to-peer mentoring where studen
 * [Lab kit](./BOM.md)
 * [Making your own Github repository and page](./tutorials/webpage_help.md)
 * [Tutorials and Helpful Resources](./tutorials/Readme.md)
+* [Website for 2025 offering](https://fastrobotscornell.github.io/FastRobots-2025/)
 * [Website for 2024 offering](https://fastrobotscornell.github.io/FastRobots-2024/)
 * [Website for 2023 offering](https://cei-lab.github.io/FastRobots-2023/)
 * [Website for 2022 offering](https://cei-lab.github.io/ECE4960-2022/)
