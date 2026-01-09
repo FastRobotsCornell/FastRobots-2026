@@ -30,7 +30,7 @@ Finally, please skim the lab instructions in order to be prepared for what to do
 
 ## Instructions
 
-*For all of the following tasks, think about how you will document that your code works. We cannot grade "I did this..". Instead, you can choose to upload photos, screenshots of the serial monitor, screen-recordings, videos of the board, and/or grab the data from the serial monitor and plot them in a graph. As always, feel free to check [last years solutions](https://fastrobotscornell.github.io/FastRobots-2024/StudentPages.html) for examples.* 
+*For all of the following tasks, think about how you will document that your code works. We cannot grade "I did this..". Instead, you can choose to upload photos, screenshots of the serial monitor, screen-recordings, videos of the board, and/or grab the data from the serial monitor and plot them in a graph. As always, feel free to check [last years solutions](https://fastrobotscornell.github.io/FastRobots-2025/StudentPages.html) for examples.* 
 
 1. Hook the Artemis board up to your computer, and select the correct Board and Port in the ArduinoIDE. Typical connection issues include...    
     1. Bad physical connections, because the USB connector needs to be pressed fully into the Artemis board.
@@ -60,7 +60,7 @@ Please read up on this [fantastic summary](https://www.Arduino.cc/en/Reference/A
 ### Computer Setup
 
 #### Install Python
-You will need to install Python 3 and pip. If you already have them installed, please make sure you have the latest releases (Python >= 3.10 and pip >= 21.0). 
+You will need to install Python 3 and pip. If you already have them installed, please make sure you have Python versions 3.10-3.13 and the latest version of pip. **Importantly, please DO NOT update to Python 3.14, there is an async issue with Bleak and the current lab code.** 
 
 <details>
   <summary><strong>How to check for versions?</strong></summary>
@@ -165,11 +165,11 @@ For any lab using Python scripts (or Jupyter notebooks), you will first need to 
 
 ### Lab Codebase
 
-Download and unzip the [codebase](./ble_robot_1.3.zip) into your project directory.
+Download and unzip the [codebase](./ble_robot_1.4.zip) into your project directory.
 <!--2. Copy the ```ble_python``` directory into your project directory.-->
 
 ```
-ble_robot_1.2
+ble_robot_1.4
 ├── ble_arduino
 |   ├── ble_arduino.ino - Arduino code that will be compiled and run on the Artemis board
 |   ├── BLECStringCharacteristic.h - class definition used to send and receive data
@@ -203,7 +203,7 @@ We will be using Jupyter notebooks to write Python code. Before you can open a J
 
 You will be writing most of your Python code using this browser window on Jupyter notebooks. For students proficient in Python, you may choose to write some of your modules in Python script files and import them into your Jupyter notebook.
 
-If you are new to JupyterLab, please go through the [Introduction to JupyterLab](https://fastrobotscornell.github.io/FastRobots-2025/tutorials/jupyter_notebooks.html) tutorial (available under the [Tutorials](https://fastrobotscornell.github.io/FastRobots-2025/tutorials/) page).
+If you are new to JupyterLab, please go through the [Introduction to JupyterLab](https://fastrobotscornell.github.io/FastRobots-2026/tutorials/jupyter_notebooks.html) tutorial (available under the [Tutorials](https://fastrobotscornell.github.io/FastRobots-2026/tutorials/) page).
 
 ### Read Through Codebase
 Please read (do not run) through the codebase (in particular, the ```demo.ipynb``` Jupyter notebook) to understand the different functions that you will be using in this lab.
@@ -312,14 +312,7 @@ artemis_address: 'C0:C2:8A:89:98:08'
 ``` python
 ble_service: '9a48ecba-2e92-082f-c079-9e75aae428b1' 
 ```
-* (Extra step for Windows/Linux) In base_ble.py: change line 69 from
-```python
-elif IS_ATLEAST_MAC_OS_12:
-```
-to
-```python
-elif True:
-```
+
 3. Check and make sure the UUIDs used in the Arduino sketch match those used by Python in the configuration file (**connection.yaml**).
 4. The command types defined in *enum CommandTypes* in the Arduino sketch should match those defined in cmd_types.py.
 5. Reupload ble_arduino.ino on the Artemis.
