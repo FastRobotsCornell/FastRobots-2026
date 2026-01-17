@@ -19,8 +19,8 @@ This lab is divided into two parts, Lab 1A, which covers the Arduino IDE and pro
 The purpose of Lab 1A is for you to setup and become familiar with the Arduino IDE and the Artemis board. After this lab, you should be comfortable programming your board, using the board LED, reading/writing serial messages over USB, and using the onboard temperature sensor and Pulse Density Microphone.
 
 ## Prelab
-Install the [Arduino IDE](https://www.arduino.cc/en/main/software) on your computer. Please use the latest versions of ArduinoIDE and Sparkfun Appollo3 boards manager (get json link [here](https://learn.sparkfun.com/tutorials/artemis-development-with-the-arduino-ide/setting-up-the-arduino-ide) and add to your Settings/Preferences in Arduino). Update them if necessary. If you have any issues, please contact the TA team.
-While we only guarantee TA support on the lab computers this semester, you can likely do all Arduino-related tasks on your own computer which will save everyone time! 
+Install the [Arduino IDE](https://www.arduino.cc/en/main/software) on your computer. Please use the latest versions of ArduinoIDE and Sparkfun Appollo3 boards manager (get json link [here](https://learn.sparkfun.com/tutorials/artemis-development-with-the-arduino-ide/setting-up-the-arduino-ide) and add to your Settings/Preferences in Arduino). Update them if necessary. If you have any issues, please contact the teaching team.
+While we only guarantee support on the lab computers this semester, you can likely do all Arduino-related tasks on your own computer which will save everyone time! We will do everything we can to help you debug connection issues, but may suggest working on lab computers if needed.
    
 Check out the Artemis description, features, and helpful forums here:
 1. [SparkFun RedBoard Artemis Nano](https://www.sparkfun.com/products/15443). *Note that this is a 3V board, NOT 5V, but 3V. Please. Remember. 3V. Inputs. Only.*
@@ -32,20 +32,19 @@ Finally, please skim the lab instructions in order to be prepared for what to do
 
 *For all of the following tasks, think about how you will document that your code works. We cannot grade "I did this..". Instead, you can choose to upload photos, screenshots of the serial monitor, screen-recordings, videos of the board, and/or grab the data from the serial monitor and plot them in a graph. As always, feel free to check [last years solutions](https://fastrobotscornell.github.io/FastRobots-2025/StudentPages.html) for examples.* 
 
-1. Hook the Artemis board up to your computer, and select the correct Board and Port in the ArduinoIDE. Typical connection issues include...    
+1. Hook the Artemis board up to your computer, and select the correct Board (Redboard Artemis Nano) and Port in the ArduinoIDE. Typical connection issues include...    
     1. Bad physical connections, because the USB connector needs to be pressed fully into the Artemis board.
     2. If you are running Windows and the first compilation takes a long time, try adding "C:\Program Files\Arduino" (or the particular project folder) to the antivirus exclusions.
-    3. Switch from the SVL bootloader to the Ambiq bootloader. (Note: this will prevent future SVL bootloads without reburning the SVL bootloader, so be careful!)
-    4. If the bootloader cannot connect, you will need to [update the CH340 Driver](../tutorials/CH340.md).
+    3. If the bootloader cannot connect, you will need to [update the CH340 Driver](../tutorials/CH340.md). *Please contact the teaching team before you do this.*
 
 2. In File->Examples->01.Basics, run Blink. (Note: you may need to slow the baud rate down for it to work.)
 3. In File->Examples->Apollo3, run Example4_Serial. (Note: to view the output and provide input open the serial monitor in the upper right hand corner of the script window, again check the baud rate.)
 4. In File->Examples->Apollo3, run Example2_analogRead to test your temperature sensor. Try blowing on or touching the chip to change its temperature. It may take a while to transfer your heat. 
-5. In File->Examples->PDM, run Example1_MicrophoneOutput to test your microphone. E.g. try whistling or speaking to change the highest frequency.
+5. In File->Examples->PDM, run Example1_MicrophoneOutput to test your microphone (e.g., try whistling or speaking to change the highest frequency).
 
 ## Additional tasks for 5000-level students
 
-6. Program the board to blink an LED when you play a musical "C" note over the speaker, and off otherwise. Use your phone, computer, or similar to generate the sound. If you're having fun you could even combine the microphone and the Serial output to generate an electronic tuner.
+6. Combine the microphone and the Serial output to generate an electronic tuner. Your program should detect the frequency and print the corresponding musical note on the serial interface.
 
 # Lab 1B
 
@@ -60,7 +59,7 @@ Please read up on this [fantastic summary](https://www.Arduino.cc/en/Reference/A
 ### Computer Setup
 
 #### Install Python
-You will need to install Python 3 and pip. If you already have them installed, please make sure you have Python versions 3.10-3.13 and the latest version of pip. **Importantly, please DO NOT update to Python 3.14, there is an async issue with Bleak and the current lab code.** 
+You will need to install Python 3 and pip. If you already have them installed, please make sure you have Python versions 3.10-3.13 and the latest version of pip. **Importantly, please DO NOT update to Python 3.14, there is an async issue with Bleak and the lab codebase.** 
 
 <details>
   <summary><strong>How to check for versions?</strong></summary>
