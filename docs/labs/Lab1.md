@@ -44,7 +44,7 @@ Finally, please skim the lab instructions in order to be prepared for what to do
 
 ## Additional tasks for 5000-level students
 
-6. Combine the microphone and the Serial output to generate an electronic tuner. Your program should detect the frequency and print the corresponding musical note on the serial interface.
+6. Combine the microphone and the Serial output to generate an simplified electronic tuner. Your program should detect three different frequencies (you can choose which three) and print the corresponding musical note on the serial interface.
 
 # Lab 1B
 
