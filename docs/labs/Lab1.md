@@ -298,7 +298,7 @@ artemis_address: 'C0:C2:8A:89:98:08'
 artemis_address: 'C0:C2:8A:89:98:08'
 ```
 2. Change BLEService UUID: Without changing this, you might connect to your classmates' Artemis boards instead of your own.
-* Generate a new UUID
+* Generate a new UUID. In a new cell in jupyter lab, run the following code.
  ```
    from uuid import uuid4
    uuid4()
