@@ -16,7 +16,7 @@ Julie is a 4th year ECE PhD candidate in Dr. Farrell Helbling’s lab. Her resea
 Jack is an MAE undergrad in Prof. Helbling’s lab interested in microrobotics and aerospace. He enjoys running when Ithaca weather permits, and will commission into the U.S. Air Force in May of this year.
 
 ### Trevor Dales (he/him)
-<p align="center"><img src="./TrevorDales.jpg" width="300"></p>
+<p align="center"><img src="./TrevorDales.png" width="300"></p>
 Trevor is a senior studying mechanical engineering, with an interest in aerospace. In my free time I enjoy cooking, running, and reading.
 
 ### Selena Yao (she/her)
