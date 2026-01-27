@@ -5,7 +5,7 @@
 
 ### E. Farrell Helbling (she/her)
 <p align="center"><img src="./FarrellHelbling.JPEG" width="300"></p>
-Farrell is an Assistant Professor at Cornell in the department of Electrical and Computer Engineering. She teaches Fast Robots, a graduate seminar in Micro/ Nano Robotics, and formerly taught ECE2300 from 2021-2023. She runs the [Helbling Robotics Lab](https://hrl.ece.cornell.edu/), which focuses on the design of cm-scale autonomous robots. Her research interests encompass cm-scale manufacturing and assembly techniques, as well as the integration of custom sensing and power systems with severe size, weight, and power constraints. In her spare time, she is either swimming, rowing, or cold plunging (anything to be on the water). 
+Farrell is an Assistant Professor at Cornell in the department of Electrical and Computer Engineering. She teaches Fast Robots, a graduate seminar in Micro/ Nano Robotics, and formerly taught ECE2300 from 2021-2023. She runs the [Helbling Robotics Lab](https://helbling-lab.github.io), which focuses on the design of cm-scale autonomous robots. Her research interests encompass cm-scale manufacturing and assembly techniques, as well as the integration of custom sensing and power systems with severe size, weight, and power constraints. In her spare time, she is either swimming, rowing, or cold plunging (anything to be on the water). 
 
 ### Julie Villamil (she/her)
 <p align="center"><img src="./JulieVillamil.png" width="300"></p>
