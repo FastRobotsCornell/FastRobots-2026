@@ -1,4 +1,4 @@
-# Fast Robots @ Cornell, Spring 2025
+# Fast Robots @ Cornell, Spring 2026
 
 ## BOM
 
