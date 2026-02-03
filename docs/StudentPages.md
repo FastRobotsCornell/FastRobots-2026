@@ -4,6 +4,7 @@
 
 # Student Pages, Spring 2026
 * [Guillaume Ah-Hot](https://guillaumeahhot.github.io/ece4160-website/)
+* [Daniel Akinwale]
 * [Bella Barhorst](https://bella-iab35.github.io/ECE4160/)
 * [Sam Belliveau](https://sam-belliveau.github.io/fast-robots/)
 * [Aidan Chan](https://amc564.github.io/fastrobots/)
