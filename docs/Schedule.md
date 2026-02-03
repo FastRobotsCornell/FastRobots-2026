@@ -1,4 +1,4 @@
-# Fast Robots, Tentative Schedule Spring 2025
+# Fast Robots, Tentative Schedule Spring 2026
 [Return to main page](./index.md)
 
 All deadlines are specified on Canvas.
