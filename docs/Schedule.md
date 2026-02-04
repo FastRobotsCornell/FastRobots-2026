@@ -22,5 +22,5 @@ All deadlines are specified on Canvas.
 | 12 (TR) | Bayes filter II, [In-class simulator setup](FastRobots-Sim.md)       | Lab 9, Mapping (real)                                               |
 | 13 (TR) | Particle Filters and SLAM                                                       | Lab 10, Localization (sim)                                           |
 | 14 (TR) | Ethics Week                                                  | Lab 11, Localization (real)                                         |
-| 15 (TR) | Olaf van Bruggen (ASML), Trivia    | Lab 12, Planning and execution (real)                              |
+| 15 (TR) | Guest Lecture, Trivia    | Lab 12, Planning and execution (real)                              |
 | 16 (T)  | Final Showcase                                                       | See google calendar for open hours over Finals                              |
