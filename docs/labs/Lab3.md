@@ -38,7 +38,8 @@ While you can choose to ignore the robot in this lab, you will have to permanent
 ## Instructions
 
 1. Power up your Artemis with a battery!
-    - You will need a JST connector and one of the 650mAh batteries from your RC car. 
+    - You will need a JST connector and one of the 650mAh batteries from your RC car.
+    - Please refer to: https://consolemods.org/wiki/Intro_to_Soldering for detailed soldering instructions! 
     - Separate the wires on your battery and cut them **one at a time**. Cutting both wires at the same time will short the terminals and destroy your battery. If you do short your battery, please inform one of the TAs.
     - Solder the battery wires to the JST jumper wires. If you are unsure how to do this, please ask one of the TAs.
     - **Use heat shrink** to insulate the exposed portion of wire. Electrical tape can fall off over time and leave a sticky residue on your robot.
