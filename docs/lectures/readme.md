@@ -13,7 +13,7 @@ Lecture slides will be uploaded on this page.
 * [Lecture 5 - EMI and Wiring](./FastRobots2026_Lecture5_EMIWiring.pdf), [worksheet](./Hardware_worksheet.pdf)
 * [Lecture 6 - Batteries and Actuators](./FastRobots2026_Lecture6_BatteryActuator.pdf)
 * [Lecture 7 - PID control](./FastRobots2026_Lecture7_PID.pdf)
-* Lecture 8 - PID control (cont) <!--, [notebook](https://tinyurl.com/yc2wkckn)-->
+* [Lecture 8 - PID control (cont)](./FastRobots2026_Lecture8_PIDcont.pdf), [notebook](https://tinyurl.com/yc2wkckn)
 * Lecture 9 - Linear systems, recap
 * Lecture 10 - Controllability
 * Lecture 11 - Controllability/LQR <!--, [Inverted Pendulum Github Repository](https://github.com/bertozzijr/Control_Bootcamp_S_Brunton)-->
