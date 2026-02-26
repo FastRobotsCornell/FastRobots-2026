@@ -16,7 +16,7 @@ Lecture slides will be uploaded on this page.
 * [Lecture 8 - PID control (cont)](./FastRobots2026_Lecture8_PIDcont.pdf), [notebook](https://tinyurl.com/yc2wkckn)
 * [Lecture 9 - Linear systems, recap](./FastRobots2026_Lecture9_LinearSystems.pdf)
 * [Lecture 10 - Controllability](./FastRobots2026_Lecture10_Controllability.pdf)
-* Lecture 11 - Controllability/LQR <!--, [Inverted Pendulum Github Repository](https://github.com/bertozzijr/Control_Bootcamp_S_Brunton)-->
+* [Lecture 11 - Controllability/LQR](./FastRobots2026_Lecture11_CartPole.pdf), [Inverted Pendulum Github Repository](https://github.com/bertozzijr/Control_Bootcamp_S_Brunton)
 * Lecture 12 - Probability and Bayes Theorem
 * Lecture 13 - Observability and Kalman Filters
 * Lecture 14 - KF cont., Local Planning
