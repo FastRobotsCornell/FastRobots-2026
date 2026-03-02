@@ -32,7 +32,7 @@ Debugging data may for example include sensor data with time stamps similar to w
 
 ### Position Control
 
-For this task, you will have your robot drive as fast as possible (given the quality of your controller) towards a wall, then stop when it is exactly 1ft (=304mm=1 floor tile in the lab) away from the wall using feedback from the time of flight sensor. Your solution should be robust to changing conditions, such as the starting distance from the wall (2-4m). If you attempt to do this at home, you could also show that your solution is robust to changing floor surface, e.g. linoleum or carpet. The catch is that any overshoot or processing delay may lead to crashing into the wall.
+For this task, you will have your robot drive as fast as possible (given the quality of your controller) towards a wall, then stop when it is exactly 1ft (=304mm=1 floor tile in the lab) away from the wall using feedback from the time of flight sensor. Your solution should be robust to changing conditions, such as the starting distance from the wall (2-4m). If you attempt to do this at home, you could also show that your solution is robust to changing floor surface, e.g. linoleum or carpet. The catch is that any overshoot or processing delay may lead to crashing into the wall. **You must also demonstrate that your controller is robust to external perturbations. If you push the car further from the wall, and then towards the wall, it should return to the desired setpoint.**
 
 Beyond the considerations mentioned above, think about the following:
    - Given the range of motor input values and the output from your TOF sensor, discuss what a reasonable range of the proportional controller gain will be. 
