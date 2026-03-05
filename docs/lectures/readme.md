@@ -18,7 +18,7 @@ Lecture slides will be uploaded on this page.
 * [Lecture 10 - Controllability](./FastRobots2026_Lecture10_Controllability.pdf)
 * [Lecture 11 - Controllability/LQR](./FastRobots2026_Lecture11_CartPole.pdf), [Inverted Pendulum Github Repository](https://github.com/bertozzijr/Control_Bootcamp_S_Brunton)
 * [Lecture 12 - Probability and Bayes Theorem](./FastRobots2026_Lecture12_ProbablilityBayes.pdf)
-* Lecture 13 - Observability and Kalman Filters
+* [Lecture 13 - Observability and Kalman Filters](./FastRobots2026_Lecture13_Observability.pdf)
 * Lecture 14 - KF cont., Local Planning
 * Lecture 15 - Maps, Graph construction
 * Lecture 16 - Graph Search
