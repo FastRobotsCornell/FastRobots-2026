@@ -20,7 +20,7 @@ Lecture slides will be uploaded on this page.
 * [Lecture 12 - Probability and Bayes Theorem](./FastRobots2026_Lecture12_ProbablilityBayes.pdf)
 * [Lecture 13 - Observability and Kalman Filters](./FastRobots2026_Lecture13_Observability.pdf)
 * [Lecture 14 - KF cont., Local Planning](./FastRobots2026_Lecture14_KFcont.pdf)
-* Lecture 15 - Maps, Graph construction
+* [Lecture 15 - Maps, Graph construction](./FastRobots2026_Lecture15_mapsgraphs.pdf)
 * Lecture 16 - Graph Search
 * Lecture 17 - Markov and Bayes Filter I
 * Lecture 18 - Motion models
