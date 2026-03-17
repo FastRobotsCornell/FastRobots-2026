@@ -108,4 +108,4 @@ You are off the hook for this lab!
 
 ## Write-up
 
-To demonstrate that you've successfully completed the lab, please upload a brief lab report (<800 words), with code snippets (not included in the word count), photos, and/or videos documenting that everything worked and what you did to make it happen. 
+To demonstrate that you've successfully completed the lab, please upload a brief lab report (<1000 words), with code snippets (not included in the word count), photos, and/or videos documenting that everything worked and what you did to make it happen. 
