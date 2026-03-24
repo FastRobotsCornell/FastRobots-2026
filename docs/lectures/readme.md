@@ -22,7 +22,7 @@ Lecture slides will be uploaded on this page.
 * [Lecture 14 - KF cont., Local Planning](./FastRobots2026_Lecture14_KFcont.pdf)
 * [Lecture 15 - Maps, Graph construction](./FastRobots2026_Lecture15_mapsgraphs.pdf)
 * [Lecture 16 - Graph Search](./FastRobots2026_Lecture16_graphsearch.pdf)
-* Lecture 17 - Markov and Bayes Filter I
+* [Lecture 17 - Markov and Bayes Filter I](./FastRobots2026_Lecture17_markov_bayesfilter1.pdf)
 * Lecture 18 - Motion models
 * Lecture 19 - Sensor models
 * Lecture 20 - Bayes Filter II
