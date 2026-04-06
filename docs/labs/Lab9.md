@@ -16,7 +16,7 @@ The quality of your map will depend on how many readings you manage to obtain du
 
 ## Prelab
 
-Consider checking out [Lecture 2 on transformation matrices](../lectures/FastRobots2025_Lecture2_Tmatrices.pdf) again.
+Consider checking out [Lecture 2 on transformation matrices](../lectures/FastRobots2026_Lecture2_Tmatrices.pdf) again.
 
 ### Control
 
@@ -33,7 +33,7 @@ If your control is based on orientiation aim for at least 14 readings (roughly 2
    - Given any potential drift in your sensor, the size and accuracy of your increments, and how reliably your robot turns on axis, reason about the average and maximum error of your map if you were to do an on-axis turn in the middle of a 4x4m square, empty room. 
 
 3. _Angular speed control:_ Create a PID controller that works directly on the raw gyroscope values. **If you choose this option, you can score up to 7.5 points in this lab.**
-   - You will likely need to low pass filter the gyroscope values - refresher in [Lecture 4, slide 25](../lectures/FastRobots2025_Lecture4_SensorFusionIMU.pdf). 
+   - You will likely need to low pass filter the gyroscope values - refresher in [Lecture 4, slide 25](../lectures/FastRobots2026_Lecture4_SensorFusionIMU.pdf). 
    - You can also consider adjusting the integration time of the TOF sensor, using `proximitySensor.setProxIntegrationTime(4); //A value of 1 to 8 is valid`. Note that this function is only available in the [Tof Pololu library](https://github.com/pololu/vl53l0x-arduino).  
    - One way to make the robot spin even slower is to block one set of wheels while turning the others. This means that your robot is now driving in a slight circle (rather than on-axis), which will make post-processing of data slightly more difficult, but allow you to capture data more reliably.
    - Please quantify and/or use graphs to document that your PID controller works well, and upload a video that shows how your robot turns. 
@@ -42,7 +42,7 @@ If your control is based on orientiation aim for at least 14 readings (roughly 2
 
 ### Read out Distances
 
-1. Execute your turn at each of the marked positions in the lab space: (-3,-2), (5,3), (0,3), and (5,-3). You are welcome to do more locations if you would like to improve your map. (If you are low on time, doing this in the Phillips hallway or at home to show that your concept works is okay). 
+1. Execute your turn at each of the marked positions in the lab space: (-3,-2), (5,3), (0,3), and (5,-3). You are welcome to do more locations if you would like to improve your map. (If you are low on time, doing this in a hallway or at home to show that your concept works is okay, please remember to provide an image of your ``world"). 
    - During the turn, measure the distance using one or more ToF sensor(s) mounted on the robot. When the turn is completed return the data to the computer over Bluetooth. 
    - To make it easier on yourself, start the robot in the same orientation in all scans.    
    - Consider whether your robot behavior is reliable enough to assume that the readings are spaced equally in angular space, or if you are better off trusting the orientation from gyroscope values.
@@ -58,7 +58,7 @@ Below you can see an example of angular speed control, a scan of a hallway, and 
 
 ### Merge and Plot your readings
 
-Compute the [transformation matrices](../lectures/FastRobots2025_Lecture2_Tmatrices.pdf) and convert the measurements from the distance sensor to the inertial reference frame of the room (these will depend on how you mounted your sensors on the robot.) 
+Compute the [transformation matrices](../lectures/FastRobots2026_Lecture2_Tmatrices.pdf) and convert the measurements from the distance sensor to the inertial reference frame of the room (these will depend on how you mounted your sensors on the robot.) 
    - Describe the matrices
    - Plot all of your TOF sensor readings in a single plot. Please assign different colors to data sets acquired from each turn. 
 
