@@ -19,7 +19,7 @@ All deadlines are specified on Canvas.
 | 9  (TR) | [Graph search](./lectures/FastRobots2026_Lecture16_graphsearch.pdf), No class!!                           | [Lab 7, Kalman Filter](labs/Lab7.md)                                                         |
 | 10 (TR) | [Markov models, Bayes filter I](./lectures/FastRobots2026_Lecture17_markov_bayesfilter1.pdf), [Motion models](./lectures/FastRobots2026_Lecture18_motionmodels.pdf)                        | [Lab 8, Stunts](labs/Lab8.md)                                                     |
 | 11 (  ) | Spring break                                                         | No lab                                                                          |
-| 12 (TR) | Sensor models, Bayes filter II       | [Lab 9, Mapping](labs/Lab9.md)                                               |
+| 12 (TR) | [Sensor models](./lectures/FastRobots2026_Lecture19_sensormodels.pdf), Bayes filter II       | [Lab 9, Mapping](labs/Lab9.md)                                               |
 | 13 (TR) | [In-class simulator setup](FastRobots-Sim.md), Particle Filters and SLAM                                                       | Lab 10, Localization (sim)                                           |
 | 14 (TR) | Particle Filters and SLAM (cont), Ethics                                                 | Lab 11, Localization (real)                                         |
 | 15 (TR) | Guest Lecture (ASML), Trivia    | Lab 12, Planning and execution (real)                              |
