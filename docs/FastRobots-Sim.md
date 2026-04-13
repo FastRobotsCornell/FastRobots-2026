@@ -90,6 +90,7 @@ again.
   pip install Box2D
   ```
   > Replace `pip` with `pip3` if `pip3` points to the latest version.
+3. If Box2D is installed successfully, 
 3. If Box2D is installed successfully, start a python interpreter:
   ```bash
   python
