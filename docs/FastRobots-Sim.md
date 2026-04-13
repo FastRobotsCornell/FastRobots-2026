@@ -82,8 +82,26 @@ and try
 again.
 
 ### Install Box2D package
+
+#### Installing from pip
+1. Navigate to your project directory and activate your virtual environment if you have not already.
+2. Install <b>Box2D</b> from pip
+   ```bash
+  pip install Box2D
+  ```
+  > Replace `pip` with `pip3` if `pip3` points to the latest version.
+3. If Box2D is installed successfully, start a python interpreter:
+  ```bash
+  python
+  ```
+  and then run the following code in the python interpreter:
+  ```python
+  import Box2D; print(Box2D.__version__)
+  ```
+4. If the above command displays "2.3.10", you are done! Skip the next sections ("Installing from a pip wheel", "Installing from source").
+
 #### Installing from a pip wheel
-1. Navigate to your project directory and activate your virtual environment.
+1. Navigate to your project directory and activate your virtual environment if you have not already.
 2. Download the [pip wheel](https://pypi.org/project/Box2D/#files) and place it in your project directory. The wheel file needs to match your OS and Python version. For example, MacOS (ARM) with Python 3.10 would download the wheel with ```cp310-macosx_11_0_arm64```.
 
 >Note: The python version must match the wheel exactly (newer versions don't work) or else you will get a message of the type: ERROR:&lt;wheel file&gt; is not a supported wheel on this platform.
