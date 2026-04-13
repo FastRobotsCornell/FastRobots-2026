@@ -23,7 +23,7 @@ The robot's world is a continuous space that spans from:
 
 <details>
   <summary><strong>What's with the imperial units?</strong></summary>
-    We are using the floor tiles in the lab for discretization and each tile is 1 foot. It helps with visually tracking the discretized robot pose. All the quantities in the simulation base code are expressed in S.I. units, unless stated otherwise.
+    We used the floor tiles in the old lab space for discretization and each tile was 1 foot. All the quantities in the simulation base code are expressed in S.I. units, unless stated otherwise.
 </details><br>
 
 There are infinitely many robot poses within this bounded space. We thus discretize the continuous state space into a finite 3D grid space, where the three axes represent <img src="https://latex.codecogs.com/svg.latex?x">, <img src="https://latex.codecogs.com/svg.latex?y">, and <img src="https://latex.codecogs.com/svg.latex?\theta">. This reduces the accuracy of the estimated state as we cannot distinguish between robot states within the same grid cell, but allows us to compute the belief over a finite set of states in reasonable time.
