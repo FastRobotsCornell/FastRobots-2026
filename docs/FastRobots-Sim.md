@@ -85,12 +85,11 @@ again.
 
 #### Installing from pip
 1. Navigate to your project directory and activate your virtual environment if you have not already.
-2. Install <b>Box2D</b> from pip
-   ```bash
-  pip install Box2D
+2. Install <b>Box2D</b> from pips
+  ```bash
+  python -m pip install numpy pygame pyqt6 pyqtgraph pyyaml ipywidgets colorama
   ```
-  > Replace `pip` with `pip3` if `pip3` points to the latest version.
-3. If Box2D is installed successfully, 
+  > Replace `python` with `python3` if `python3` points to the latest version.
 3. If Box2D is installed successfully, start a python interpreter:
   ```bash
   python
