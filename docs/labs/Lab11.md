@@ -13,7 +13,7 @@ In this lab you will perform localization with the Bayes filter on your actual r
 
 ## Prelab
 ### Lectures
-Consider going through the lectures on [Sensor Models](../lectures/FastRobots2025_Lecture19_sensormodels.pdf), [Motion models](../lectures/FastRobots2025_Lecture18_motionmodels.pdf), and the [Bayes Filter](../lectures/FastRobots2025_Lecture17_markov_bayesfilter1.pdf).
+Consider going through the lectures on [Sensor Models](../lectures/FastRobots2026_Lecture19_sensormodels.pdf), [Motion models](../lectures/FastRobots2026_Lecture18_motionmodels.pdf), and the [Bayes Filter](../lectures/FastRobots2026_Lecture17_markov_bayesfilter1.pdf).
 
 ### Grid Localization
 Please refer to the [simulation setup](../FastRobots-Sim.md) and [Lab 10](Lab10.md).
