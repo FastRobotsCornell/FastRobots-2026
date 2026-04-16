@@ -27,6 +27,6 @@ Lecture slides will be uploaded on this page.
 * [Lecture 19 - Sensor models](./FastRobots2026_Lecture19_sensormodels.pdf)
 * [Lecture 20 - Bayes Filter II](./FastRobots2026_Lecture20_bayes2.pdf)
 * [Lecture 21 - Simulator](../FastRobots-Sim.md)
-* Lecture 22/23 - Particle Filters and intro to SLAM
+* [Lecture 22/23 - Particle Filters and intro to SLAM](./FastRobots2026_Lecture22_SLAM.pdf)
 * Lecture 24 - Ethics
 * Lectures 25 - Trivia
