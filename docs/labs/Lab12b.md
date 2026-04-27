@@ -15,6 +15,9 @@ For example,
 * Estimation: is the IMU data reliable and fast enough for the stunt? Do you need to include the Kalman Filter?
 * Start the car in the normal position, drive forward at speed and rapidly brake as if you are going to implement the flip. Start the controller mid-flip to maintain the wheelie position.
 
+Two great examples from prior years are shown below:
+
+
 We highly encourage collaboration, just be sure to credit your partners.
  
 Please carefully document how well your solution, and all parts of it, works. This may include a brief introduction to the capabilities of your system, relevant code snippets, and a flowchart diagram of what processes (offboard/onboard) run when; how long each take to execute and how reliable/accurate the outcome is. Obviously, include a video of your robot working!
