@@ -15,4 +15,5 @@
 * [Lab 9: Mapping](./Lab9.md)
 * [Lab 10: Localization (sim)](./Lab10.md)
 * [Lab 11: Localization (real)](./Lab11.md)
-* Lab 12: Planning and Execution <!--](./Lab12.md)-->
+* [Lab 12: Planning and Execution](./Lab12a.md)
+* [Lab 12: Inverted Pendulum](./Lab12b.md)
