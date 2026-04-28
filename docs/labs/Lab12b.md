@@ -17,7 +17,8 @@ For example,
 
 Two great examples from prior years are shown below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ioA5IQkiZAE?si=S4YUgREP9VWYYiCj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Stephan Wagner](https://youtu.be/ioA5IQkiZAE?si=huBxrLQI_6XTCIq-)](https://youtu.be/ioA5IQkiZAE?si=huBxrLQI_6XTCIq-)
+
 
 We highly encourage collaboration, just be sure to credit your partners.
  
