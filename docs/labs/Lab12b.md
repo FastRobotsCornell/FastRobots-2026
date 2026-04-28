@@ -17,7 +17,11 @@ For example,
 
 Two great examples from prior years are shown below:
 
+Stephan Wagner:
 [![Stephan Wagner](https://youtu.be/ioA5IQkiZAE?si=huBxrLQI_6XTCIq-)](https://youtu.be/ioA5IQkiZAE?si=huBxrLQI_6XTCIq-)
+
+Nita Kattimani, Aravind Ramaswami, Anunth Ramaswami:
+[![Watch the Video](https://www.youtube.com/watch?v=WKfhfwsL8mU&t=8s)](https://www.youtube.com/watch?v=WKfhfwsL8mU&t=8s)
 
 
 We highly encourage collaboration, just be sure to credit your partners.
