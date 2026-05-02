@@ -4,7 +4,6 @@
 
 # Student Pages, Spring 2026
 * [Guillaume Ah-Hot](https://guillaumeahhot.github.io/ece4160-website/)
-* [Bella Barhorst](https://bella-iab35.github.io/ECE4160/)
 * [Sam Belliveau](https://sam-belliveau.github.io/fast-robots/)
 * [Aidan Chan](https://amc564.github.io/fastrobots/)
 * [Ray Chang](https://rayc940.github.io/ece5160-fast-robot)
@@ -36,9 +35,7 @@
 * [Jonathan Ma](https://jonathanjma.com/ece5160-labreports/)
 * [Joshua McMahon](https://mcmahonjosh.github.io/Fast-Robots-Website/)
 * [Gerardo Montemayor](https://gerry-montemayor.github.io/gerry-montemayor-ECE4160/index.html)
-* [Nagamitesh Nagamuralee](https://nagamitesh.github.io/fastrobots-naga/)
 * [Marcel Pantin](https://marcelgerardop.github.io/FastRobots-2026/)
-* [Siang Peng](https://siang2222.github.io/SiangPeng-ECE4160-2026/)
 * [Rushika Prasad](https://starrushi.github.io/rp548_Fast_Robots/)
 * [Xingzhi Qian](https://alanq0327.github.io/?v=999)
 * [Iris Ren](https://iris12360-code.github.io/fastrobotics)
